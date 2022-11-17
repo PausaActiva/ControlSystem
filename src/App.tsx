@@ -1,7 +1,7 @@
 import "./App.css"
 
 const App = () => {
-  return <span className="italic">Hello World</span>
+  return <div className="bg-slate-600">Hello World</div>
 }
 
 export default App
